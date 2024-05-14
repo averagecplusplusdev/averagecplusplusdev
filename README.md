@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title> README.md </title>
+    <b> this is my page lol, enjoy looking at it :3 </b>
 </head>
 <body>
     <!-- 
