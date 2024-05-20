@@ -1,3 +1,5 @@
+# I love graphics programming cuz it's fun
+
 //averagecplusplusdev
 <!DOCTYPE html>
 <html>
