@@ -4,7 +4,7 @@ amongusnecbiacdeanoipms
 
 # This is my page lol, enjoy looking at it
 
-```ruby
+```pink
 // averagecplusplusgamedev
 #include <iostream>
 
