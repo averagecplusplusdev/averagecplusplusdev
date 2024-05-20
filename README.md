@@ -4,8 +4,9 @@ amongusnecbiacdeanoipms
 
 # This is my page lol, enjoy looking at it
 
-```pink
+```C++
 // averagecplusplusgamedev
+
 #include <iostream>
 
 int main()
