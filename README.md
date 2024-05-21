@@ -15,4 +15,6 @@ int main()
 }
 ```
 
+## PERSONAL/WORK RELATED EMAIL
+"averagegamedev1@gmail.com"
 # (end of page)
