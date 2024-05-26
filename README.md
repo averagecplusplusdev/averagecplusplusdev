@@ -5,7 +5,7 @@ amongusnecbiacdeanoipms
 # This is my page lol, enjoy looking at it
 
 ```C++
-// averagecplusplusgamedev
+// tokyocplusplus
 
 #include <iostream>
 
