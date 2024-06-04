@@ -2,11 +2,9 @@
 
 ### quick look at this cool ass image (pfp resources)
 
-
+![githubProf](https://github.com/tokyocplusplus/tokyocplusplus/assets/165439040/051a6477-bf8a-4582-a869-00495915cb33)
 
 # This is my page lol, enjoy looking at it
-
-![githubProf](https://github.com/tokyocplusplus/tokyocplusplus/assets/165439040/051a6477-bf8a-4582-a869-00495915cb33)
 
 ```C++
 // tokyocplusplus
