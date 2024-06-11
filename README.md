@@ -36,7 +36,7 @@ int main(void)
 
 void main()
 {
-    DrawString("Hello!! I'm a graphics programmer and thiss my github page!";
+    string print = "Hello!! I'm a graphics programmer and this my github page!";
 }
 ```
 
