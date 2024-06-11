@@ -9,11 +9,34 @@
 ```C++
 // tokyocplusplus
 
-#include <iostream>
+#include<iostream>
 
 int main()
 {
     std::cout << "Hello!! I'm a graphics programmer and this is my github page!";
+
+    return 0;
+}
+```
+
+```C
+// tokyocplusplus
+
+#include<stdio.h>
+
+int main(void)
+{
+    printf("Hello!! I'm a graphics programmer and this is my github page!";
+
+    return 0;
+}
+```
+```GLSL
+#version 450 core
+
+void main()
+{
+    DrawString("Hello!! I'm a graphics programmer and thiss my github page!";
 }
 ```
 
